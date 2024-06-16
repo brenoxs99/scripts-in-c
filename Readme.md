@@ -1,1 +1,1 @@
-"# Codigos em c" 
+# Scripts em Linguagem C
