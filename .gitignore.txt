@@ -1,5 +1,0 @@
-# Ignorar arquivos .exe em 'codigos-recursivos'
-codigos-recursivos/*.exe
-
-# Ignorar arquivos .exe em 'estruturas-de-dados'
-estruturas-de-dados/*.exe
